@@ -1,6 +1,6 @@
 # Mousa Arraf (MSc)
 
-📧 Arraf46@gmail.com • 📞 (050) 3881155 • [LinkedIn](https://linkedin.com/in/mousa-arraf-3ab70020a/) • [GitHub](https://github.com/arrafmousa)
+📧 Arraf46@gmail.com • [LinkedIn](https://linkedin.com/in/mousa-arraf-3ab70020a/) • [GitHub](https://github.com/arrafmousa)
 
 ## Professional Summary
 Masters in Computer Science at the Technion, specializing in NLP and LLM optimization under the supervision of Dr. Kira Radinsky. Thesis focused on injecting external world knowledge into LMs, achieving SOTA results in structured text generation. Actively seeking opportunities to apply my expertise in the industry.
